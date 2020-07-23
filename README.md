@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeepingClown)](https://github.com/PeepingClown/github-readme-stats)
 
 
-<a href="https://github.com/PeepingClown/github-readme-stats">
+
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PeepingClown&show_icons=true&theme=dracula" /> </p>
-</a>
+
