@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeepingClown&show_icons=true&theme=dracula" /> </p>
+  <img style="box-shadow: 10px 10px 20px rgba(0,0,0,0.4)" src="https://github-readme-stats.vercel.app/api?username=PeepingClown&show_icons=true&theme=dracula" />
+  </p>
 
