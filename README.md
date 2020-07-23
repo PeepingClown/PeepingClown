@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeepingClown)](https://github.com/PeepingClown/github-readme-stats)
 
+   <p align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeepingClown">
+   </p>
 
 
   <p align="center">
-  <img style="box-shadow: 10px 10px 20px rgba(0,0,0,0.4)" src="https://github-readme-stats.vercel.app/api?username=PeepingClown&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PeepingClown&show_icons=true&theme=dracula" />
   </p>
 
