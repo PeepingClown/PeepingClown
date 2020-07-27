@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <p align="center">
-     <img style="box-shadow: 4px 4px 4px rgba(0,0,0,0.2)" align="center" src="My Post.png">
-   </p>
+  
 
 
   <p align="center">
