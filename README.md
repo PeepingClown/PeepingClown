@@ -1,6 +1,6 @@
 
 <a href="https://dev.to/peepingclown">
-  <i class="fab fa-dev" title="peepingclown's DEV Profile"></i>
+  <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayanka Chattopadhyay's DEV Profile" height="30" width="30">
 </a>
 
 <!--
