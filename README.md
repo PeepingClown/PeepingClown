@@ -1,5 +1,7 @@
 
-[![Mayanka Chattopadhyay's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/peepingclown)
+<a href="https://dev.to/peepingclown">
+  <i class="fab fa-dev" title="peepingclown's DEV Profile"></i>
+</a>
 
 <!--
 **PeepingClown/PeepingClown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
