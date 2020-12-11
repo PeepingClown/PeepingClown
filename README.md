@@ -1,7 +1,7 @@
 
 
 <a href="https://dev.to/peepingclown">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" style='color: blue;' alt="Mayanka Chattopadhyay's DEV Profile" height="50" width="50">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" style='color: white;' alt="Mayanka Chattopadhyay's DEV Profile" height="50" width="50">
 </a>
 
 <!--
